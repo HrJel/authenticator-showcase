@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "projectId": "authenticator",
+  "name": "Authenticator",
+  "publicShowcase": true,
+  "presentationOwner": "Jelvan R.",
+  "unaffiliatedPublication": true,
+  "documentationOnly": true,
+  "sourceCodeIncluded": false,
+  "productionEquivalent": false,
+  "ndaAdapted": true,
+  "lastReviewed": "2026-10-20",
+  "verifiedStatus": "A similarly named auth repository was listed but not readable via the connected action; a separate public authentik fork is NOT evidence that it is the intended Authenticator project.",
+  "portfolio": {
+    "section": "Projects / Apps",
+    "portfolioHome": "https://portfolio.jelvan.pro",
+    "viewerModes": {
+      "macos": {
+        "displayType": "screenshot-placeholder",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      },
+      "web": {
+        "displayType": "screenshot-placeholder",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      },
+      "ios": {
+        "displayType": "screenshot-placeholder",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      },
+      "android": {
+        "displayType": "screenshot-placeholder",
+        "enabledAsLiveIframe": false,
+        "approvedDemoUrl": null
+      }
+    },
+    "showUrlInViewer": false,
+    "allowOpenExternal": false,
+    "allowCopyUrl": false,
+    "previewFallback": "approved-local-screenshot-or-explanatory-placeholder"
+  }
+}
