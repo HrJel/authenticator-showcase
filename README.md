@@ -1,3 +1,19 @@
+## New login and protected dashboard source — 21 October 2026
+
+These are **new independent showcase screens**, not the original/client product or a verified production release. The images below are vector **illustrative previews**, not live-session screenshots.
+
+![Login screen UI preview](assets/screenshots/login.svg)
+
+![Dashboard UI preview](assets/screenshots/dashboard.svg)
+
+**Source features:** Access-controlled policy dashboard; security record inventory/status; D1-backed workspace; account administration; server-gated login and admin interface, Turnstile verification and scoped D1-backed session/workspace foundation.
+
+**Not implemented:** THIS IS NOT a working TOTP, WebAuthn passkey, MFA, recovery-code or standalone authenticator app. The sign-in Worker protects only the showcase.
+
+See [security implementation, deployment and acceptance checklist](docs/APP_SECURITY_AND_SETUP.md) and [database schema](schema.sql). Requires Cloudflare staging configuration and security verification before serving real accounts.
+
+---
+
 # Authenticator — public portfolio showcase
 
 ## Technical documentation (current audit)
